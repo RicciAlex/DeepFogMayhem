@@ -1,0 +1,54 @@
+
+★Eyes Hunter:
+
+C言語で作ったシューティングゲームです。初めてのゲームでしたので、特に簡単ゲームです。
+
+https://www.youtube.com/watch?v=P9WvH_bhqqs&list=PLj0Cq42DUVEUVrfqOsCq2BaUlDOLWJ70k&index=5
+
+
+★Cultist Life:
+
+C言語で作ったアクションゲームです。ステージ6つありますし、敵の挙動もかなり違いますので、
+このゲームを作るのが楽しかったと思います。
+
+https://www.youtube.com/watch?v=fLhoxXsB9ig&list=PLj0Cq42DUVEUVrfqOsCq2BaUlDOLWJ70k&index=3
+
+
+★Jewel Trader:
+
+C言語で作った3Dアクションゲームです。内容は簡単ですが、最初の3Dアクションゲームでしたので、
+物理にかなり力を入れました。高校で勉強した数学と物理を活かしましたので、
+斜面の当たり判定とメッシュフィールドを作るのが特に面白かったと思います。
+
+https://www.youtube.com/watch?v=WWqJpOhzkoo&list=PLj0Cq42DUVEUVrfqOsCq2BaUlDOLWJ70k&index=4
+
+★Metal Power Disc:
+
+C言語で作った2Dアクションゲームです。最初のチーム制作で、4人のチームで作りました。
+物理と背景のオブジェクトを担当しました。
+
+担当箇所:
+
+ディスク係の処理
+必殺技
+背景のオブジェクト(歯車や配管などの動くオブジェクト)
+必殺技のエフェクトと背景のエフェクト
+
+https://www.youtube.com/watch?v=fFnH6ijZ-tM&list=PLj0Cq42DUVEUVrfqOsCq2BaUlDOLWJ70k&index=6
+
+★ババ・インバリッド:
+
+C++で作った3Dアクションゲームです。ハッカソンというイベントの際、4人のチームで作りました。
+メインプログラマーとして多くの処理を書きました。
+
+担当箇所:
+
+ゲームの基盤
+アニメーションの処理
+地面生成の処理
+当たり判定の処理
+障害物
+モデルの描画係の処理
+
+
+https://www.youtube.com/watch?v=i3TiwXQpEDM&list=PLj0Cq42DUVEUVrfqOsCq2BaUlDOLWJ70k&index=7
